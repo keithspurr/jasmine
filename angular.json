@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "jasmine"
+    }
+  },
+  "defaultProject": "jasmine",
+  "cli": {
+    "analytics": false
+  }
 }
